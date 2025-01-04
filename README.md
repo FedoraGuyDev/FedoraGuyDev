@@ -5,4 +5,4 @@
 -Le debo 80 pesos a mi amiga desde hace 2 años
 
 <h2>Cosas que uso</h2>
-### - **Lenguajes de programacion**
+- **Lenguajes de programacion**
