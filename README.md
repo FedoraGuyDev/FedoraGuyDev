@@ -5,4 +5,10 @@
 -Le debo 80 pesos a mi amiga desde hace 2 años
 
 <h2>Cosas que uso</h2>
-- **Lenguajes de programacion**
+
+<h3>Lenguajes de programacion:</h3>
+
+  [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+  [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+  [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
+  
